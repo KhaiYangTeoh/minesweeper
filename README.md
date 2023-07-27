@@ -1,3 +1,3 @@
 # minesweeper
+Minesweeper app
 
-A new Flutter project.
